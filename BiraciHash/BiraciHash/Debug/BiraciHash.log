@@ -1,0 +1,9 @@
+﻿  HashTable.cpp
+D:\Projects\BiraciHash\BiraciHash\HashTable.h(12,15): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Projects\BiraciHash\BiraciHash\HashTable.h(19,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+D:\Projects\BiraciHash\BiraciHash\HashTable.cpp(31,19): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\BiraciHash\BiraciHash\HashTable.h(12,15): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\Projects\BiraciHash\BiraciHash\HashTable.h(19,21): warning C4018: '<': signed/unsigned mismatch
+  BiraciHash.vcxproj -> D:\Projects\BiraciHash\Debug\BiraciHash.exe
